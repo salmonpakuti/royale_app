@@ -1,0 +1,34 @@
+#""の中に名前を書いてください
+author = "足達　悠人"
+
+#""の中に学籍番号を書いてください
+user_id = "225762K"
+
+#タイトル
+title = "追記予定"
+
+#前期・活動計画報告書のPDFのパス
+dissertation_work_plan = "plans/firstWorkPlan.pdf" 
+
+# 後期研究計画書のPDFのパス
+#research_plan = "firstWorkPlan/research_plan.pdf"
+
+# 中間報告書のPDFのパス
+#midterm = "firstWorkPlan/midterm.pdf"
+
+#自分の研究室の行の先頭の「#」を消してください
+
+#supervisor = "ファイヤー和田研"
+#supervisor = "吉田研"
+#supervisor = "名嘉村研"
+#supervisor = "姜研"
+#supervisor = "宮里研"
+#supervisor = "山田研"
+#supervisor = "岡崎研"
+#supervisor = "河野研"
+#supervisor = "當間研"
+supervisor = "赤嶺研"
+#supervisor = "遠藤研"
+#supervisor = "長山研"
+#supervisor = "長田研"
+#supervisor = "國田研"
